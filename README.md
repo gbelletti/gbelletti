@@ -1,3 +1,4 @@
-Hi, i’m @cherryuta. ESP/ENG. I’m interested in cybersecurity.
-I’m currently learning C++ and Python.
-I already learned Java and Smalltalk, using Pharo. Good at UML. 
+i’m @gbelletti. ESP/ENG. junior tester.
+i’m interested in cybersecurity. don't like scrum but here we are.
+currently learning Python and Scheme.
+already learned Java, Smalltalk (Pharo), Prolog, C/C++
